@@ -1,0 +1,3 @@
+0 persona
+1 Mano
+2 Esperando...
